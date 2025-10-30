@@ -6,7 +6,7 @@
 - url: https://ffp.nl/vind-een-planner/
 - speed page search: 17 it/s
 - speed page people: 3.7 it/s
-- All time: 913 items 5 min and less
+- All time: 4 minets on 913 peoples
 
 ---
 ### User library
