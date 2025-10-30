@@ -1,0 +1,6 @@
+pandas
+bs4
+lxml
+requests
+tqdm
+openpyxl
