@@ -20,6 +20,27 @@ requirements.txt
 - openpyxl
 ```
 
+### How run project themselves
+
+##### Get project
+```bash
+git copy https://github.com/bontonent/FFP-site.git
+cd ./FFP-site
+```
+
+##### Make environment with library
+```bash
+python -m venv .venv
+source ./.venv/bin/activate # for linux
+pip install -r requirements.txt
+```
+
+##### Run project
+```bash
+python main.py
+```
+
+---
 ## Exercise
 
 #### Summary
@@ -32,5 +53,4 @@ Each contact has its own individual page with phone number, website, email and a
 #### Deliverables
 A CSV/Excel file containing 169 contacts from the FFP page including contact details.
 
-
-# Complete in answer.xlsx
+##### Complete in answer.xlsx
